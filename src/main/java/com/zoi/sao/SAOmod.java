@@ -35,13 +35,13 @@ public class SAOmod {
         steel_ingot = new Item()
                 .setCreativeTab(CreativeTabs.tabMisc)
                 .setUnlocalizedName("steel ingot")
-                .setTextureName("SAOmod:steel ingot");
+                .setTextureName("SAOmod:steel_ingot");
         GameRegistry.registerItem(steel_ingot, "steel ingot");
 
         black_ingot = new Item()
                 .setCreativeTab(CreativeTabs.tabMisc)
                 .setUnlocalizedName("black ingot")
-                .setTextureName("SAOmod:black ingot");
+                .setTextureName("SAOmod:black_ingot");
         GameRegistry.registerItem(black_ingot, "black ingot");
     }
     @EventHandler
