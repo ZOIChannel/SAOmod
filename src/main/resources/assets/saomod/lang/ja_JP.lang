@@ -1,3 +1,8 @@
 
 item.steel ingot.name=スチールインゴット
 item.black ingot.name=ブラックインゴット
+item.crystallite_ingot.name=クリスタライトインゴット
+item.steel_handle.name=スチールハンドル
+item.black_handle.name=ブラックハンドル
+item.crystallite_handle.name=クリスタライトハンドル
+item.red_handle.name=レッドハンドル

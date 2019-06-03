@@ -1,6 +1,7 @@
 package com.zoi.sao;
 
 import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -23,6 +24,7 @@ public class SAOmod {
     public static Item steel_handle;
     public static Item black_handle;
     public static Item crystallite_handle;
+    public static Item red_handle;
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
@@ -62,6 +64,12 @@ public class SAOmod {
                 .setTextureName("SAOmod:crystallite_handle");
         GameRegistry.registerItem(crystallite_handle, "crystallite handle");
 
+        red_handle = new Item()
+                .setCreativeTab(CreativeTabs.tabMisc)
+                .setUnlocalizedName("red handle")
+                .setTextureName("SAOmod:red_handle");
+        GameRegistry.registerItem(red_handle, "red handle");
+
 
 
     }
@@ -73,6 +81,7 @@ public class SAOmod {
         GameRegistry.addRecipe(new ItemStack(SAOmod.steel_handle), "  X", " X ", "X  ", 'X', SAOmod.steel_ingot);
         GameRegistry.addRecipe(new ItemStack(SAOmod.black_handle), "  X", " X ", "X  ", 'X', SAOmod.black_ingot);
         GameRegistry.addRecipe(new ItemStack(SAOmod.crystallite_handle), "  X", " X ", "X  ", 'X', SAOmod.crystallite_ingot);
+        GameRegistry.addRecipe(new ItemStack(SAOmod.red_handle), "  X", " X ", "Y  ", 'X', Blocks.cactus, 'Y', SAOmod.steel_ingot);
 
     }
 }

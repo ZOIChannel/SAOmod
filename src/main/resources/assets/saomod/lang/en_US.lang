@@ -1,2 +1,7 @@
 item.steel ingot.name=Steel Ingot
 item.black ingot.name=Black Ingot
+item.crystallite_ingot.name=Crystallite Ingot
+item.steel_handle.name=Steel Handle
+item.black_handle.name=Black Handle
+item.crystallite_handle.name=Crystallite Handle
+item.red_handle.name=Red Handle
