@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23d318f8-07db-4a85-a92a-bbb923a371ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM-1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-2.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-3.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-2.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-3.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -81,10 +60,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
+            <state relative-caret-position="1811">
               <caret line="146" column="132" selection-start-line="146" selection-start-column="132" selection-end-line="146" selection-end-column="132" />
             </state>
           </provider>
@@ -99,14 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#379#0" />
-                <element signature="e#2#377#0" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -149,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
       </list>
     </option>
   </component>
@@ -316,7 +293,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -366,16 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#379#0" />
-            <element signature="e#2#377#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOtab.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -399,8 +365,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
+        <state relative-caret-position="1811">
           <caret line="146" column="132" selection-start-line="146" selection-start-column="132" selection-end-line="146" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
