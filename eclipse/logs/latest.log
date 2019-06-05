@@ -1,15 +1,36 @@
-[18:11:22] [main/INFO]: Setting user: Player10
-[18:11:24] [Client thread/INFO]: LWJGL Version: 2.9.1
-[18:11:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[18:11:36] [Sound Library Loader/INFO]: Sound engine started
-[18:11:36] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[18:11:36] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[18:11:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[18:11:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:11:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:11:38] [Sound Library Loader/INFO]: Sound engine started
-[18:11:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
-[18:11:54] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[18:11:54] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[18:11:55] [Sound Library Loader/INFO]: Sound engine started
-[18:12:04] [Client thread/INFO]: Stopping!
+[17:03:45] [main/INFO]: Setting user: Player704
+[17:03:47] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:04:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SAOmod
+[17:04:02] [Sound Library Loader/INFO]: Sound engine started
+[17:04:03] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:04:03] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:04:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SAOmod
+[17:04:04] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:04:04] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:04:04] [Sound Library Loader/INFO]: Sound engine started
+[17:05:00] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:05:00] [Server thread/INFO]: Generating keypair
+[17:05:00] [Server thread/INFO]: Converting map!
+[17:05:00] [Server thread/INFO]: Scanning folders...
+[17:05:00] [Server thread/INFO]: Total conversion count is 0
+[17:05:01] [Server thread/INFO]: Preparing start region for level 0
+[17:05:02] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:05:03] [Server thread/INFO]: Player704[local:E:e7d05fb7] logged in with entity id 17 at (-879.5, 4.0, -911.5)
+[17:05:03] [Server thread/INFO]: Player704 がゲームに参加しました
+[17:05:05] [Server thread/INFO]: Player704 は [所持品の確認] の実績を取得した
+[17:05:05] [Client thread/INFO]: [CHAT] Player704 は [所持品の確認] の実績を取得した
+[17:05:09] [Server thread/INFO]: Saving and pausing game...
+[17:05:09] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/Overworld
+[17:05:09] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/Nether
+[17:05:09] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/The End
+[17:05:19] [Server thread/INFO]: Saving and pausing game...
+[17:05:19] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/Overworld
+[17:05:19] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/Nether
+[17:05:19] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/The End
+[17:05:20] [Server thread/INFO]: Stopping server
+[17:05:20] [Server thread/INFO]: Saving players
+[17:05:20] [Server thread/INFO]: Saving worlds
+[17:05:20] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/Overworld
+[17:05:20] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/Nether
+[17:05:20] [Server thread/INFO]: Saving chunks for level 'TESTワールドNO.1'/The End
+[17:05:22] [Client thread/INFO]: Stopping!
