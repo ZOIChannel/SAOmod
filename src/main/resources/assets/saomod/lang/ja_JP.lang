@@ -6,3 +6,7 @@ item.steel handle.name=スチールハンドル
 item.black handle.name=ブラックハンドル
 item.crystallite handle.name=クリスタライトハンドル
 item.red handle.name=レッドハンドル
+item.elucidator.name=エリュシデータ
+item.darkrepulser.name=ダークリパルサー
+item.lambentlight.name=ランベンライト
+itemGroup.SAOtab=SAOmod
