@@ -35,6 +35,8 @@ public class SAOmod {
     public static Item darkrepulser;
     public static ToolMaterial LAMBENTLIGHT;
     public static Item lambentlight;
+    public static ToolMaterial LIBERATOR;
+    public static Item liberator;
 
 
 
@@ -93,7 +95,7 @@ public class SAOmod {
 
 
 
-        ELUCIDATOR = EnumHelper.addToolMaterial("ELUCIDATOR", 3, 1000, 7.5F, 2.5F, 10)
+        ELUCIDATOR = EnumHelper.addToolMaterial("ELUCIDATOR", 3, 1000, 7.5F, 32.0F, 10)
                 .setRepairItem(new ItemStack(Blocks.obsidian));
         elucidator = new ItemSword(ELUCIDATOR)
                 .setCreativeTab(SAOmod.SAOtab)
@@ -101,7 +103,7 @@ public class SAOmod {
                 .setTextureName("SAOmod:elucidator");
         GameRegistry.registerItem(elucidator, "elucidator");
 
-        DARKREPULSER = EnumHelper.addToolMaterial("DARKREPULSER", 3, 1000, 7.5F, 2.5F, 10)
+        DARKREPULSER = EnumHelper.addToolMaterial("DARKREPULSER", 3, 1000, 7.5F, 28.0F, 10)
                 .setRepairItem(new ItemStack(SAOmod.crystallite_ingot));
         darkrepulser = new ItemSword(DARKREPULSER)
                 .setCreativeTab(SAOmod.SAOtab)
@@ -109,13 +111,21 @@ public class SAOmod {
                 .setTextureName("SAOmod:darkrepulser");
         GameRegistry.registerItem(darkrepulser, "darkrepulser");
 
-        LAMBENTLIGHT = EnumHelper.addToolMaterial("LAMBENTLIGHT", 3, 1000, 7.5F, 2.5F, 10)
+        LAMBENTLIGHT = EnumHelper.addToolMaterial("LAMBENTLIGHT", 3, 1000, 7.5F, 24.0F, 10)
                 .setRepairItem(new ItemStack(Items.diamond));
         lambentlight = new ItemSword(LAMBENTLIGHT)
                 .setCreativeTab(SAOmod.SAOtab)
                 .setUnlocalizedName("lambentlight")
                 .setTextureName("SAOmod:lambentlight");
         GameRegistry.registerItem(lambentlight, "lambentlight");
+
+        LIBERATOR = EnumHelper.addToolMaterial("LIBERATOR", 3, 1000, 7.5F, 36.0F, 10)
+                .setRepairItem(new ItemStack(SAOmod.steel_ingot));
+        liberator = new ItemSword(LIBERATOR)
+                .setCreativeTab(SAOmod.SAOtab)
+                .setUnlocalizedName("liberator")
+                .setTextureName("SAOmod:liberator");
+        GameRegistry.registerItem(liberator, "liberator");
 
 
 
@@ -133,6 +143,11 @@ public class SAOmod {
         GameRegistry.addRecipe(new ItemStack(SAOmod.black_handle), "  X", " X ", "X  ", 'X', SAOmod.black_ingot);
         GameRegistry.addRecipe(new ItemStack(SAOmod.crystallite_handle), "  X", " X ", "X  ", 'X', SAOmod.crystallite_ingot);
         GameRegistry.addRecipe(new ItemStack(SAOmod.red_handle), "  X", " X ", "Y  ", 'X', Blocks.cactus, 'Y', SAOmod.steel_ingot);
+
+        GameRegistry.addRecipe(new ItemStack(SAOmod.elucidator), "  X", " X ", "Y  ", 'X', Blocks.obsidian, 'Y', SAOmod.black_handle);
+        GameRegistry.addRecipe(new ItemStack(SAOmod.darkrepulser), "  X", " X ", "Y  ", 'X', SAOmod.crystallite_ingot, 'Y', SAOmod.crystallite_handle);
+        GameRegistry.addRecipe(new ItemStack(SAOmod.lambentlight), " X ", " X ", " Y ", 'X', Items.diamond, 'Y', SAOmod.crystallite_handle);
+        GameRegistry.addRecipe(new ItemStack(SAOmod.liberator), "  X", " X ", "Y  ", 'X', SAOmod.steel_handle, 'Y', SAOmod.steel_ingot);
 
     }
 }
