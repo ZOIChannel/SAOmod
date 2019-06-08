@@ -10,8 +10,10 @@
 :compileApiJava UP-TO-DATE
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
-:sourceMainJava UP-TO-DATE
-:compileJava UP-TO-DATE
+:sourceMainJava
+:compileJava警告: [options] ブートストラップ・クラスパスが-source 1.6と一緒に設定されていません
+警告1個
+
 :processResources
 :classes
 :jar
@@ -30,4 +32,4 @@
 
 BUILD SUCCESSFUL
 
-Total time: 3.321 secs
+Total time: 1 mins 8.562 secs

@@ -1,13 +1,31 @@
 
 item.steel ingot.name=スチールインゴット
-item.black ingot.name=ブラックインゴット
-item.crystallite ingot.name=クリスタライトインゴット
 item.steel handle.name=スチールハンドル
+item.black ingot.name=ブラックインゴット
 item.black handle.name=ブラックハンドル
+item.crystallite ingot.name=クリスタライトインゴット
 item.crystallite handle.name=クリスタライトハンドル
 item.red handle.name=レッドハンドル
 item.elucidator.name=エリュシデータ
 item.darkrepulser.name=ダークリパルサー
 item.lambentlight.name=ランベンライト
 item.liberator.name=リベレイター
+item.annealblade.name=アニールブレード
+item.windfleuret.name=ウィンドフルーレ
+item.guiltythorn.name=ギルティソーン
+
+tile.steel block.name=スチールブロック
+tile.black block.name=ブラックブロック
+
+achievement.get_steel_ingot=スチールインゴットを手に入れた！
+achievement.get_black_ingot=ブラックインゴットを手に入れた！
+achievement.get_crystallite_ingot=クリスタライトインゴットを手に入れた！
+achievement.get_elucidator=エリュシデータを手に入れた！
+achievement.get_darkrepulser=ダークリパルサーを手に入れた！
+achievement.get_lambentlight=ランベンライトを手に入れた！
+achievement.get_liberator=リベレイターを手に入れた！
+achievement.get_annealblade=アニールブレードを手に入れた！
+achievement.get_windfleuret=ウィンドフルーレを手に入れた！
+achievement.get_guiltythorn=ギルティソーンを手に入れた！
+
 itemGroup.SAOtab=SAOmod
