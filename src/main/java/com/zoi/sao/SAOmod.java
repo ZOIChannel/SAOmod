@@ -242,7 +242,6 @@ public class SAOmod {
                 .setUnlocalizedName("windfleuret")
                 .setTextureName("SAOmod:windfleuret");
         GameRegistry.registerItem(windfleuret, "windfleuret");
-        //レシピの真ん中ナニー？
 
         GUILTYTHORN = EnumHelper.addToolMaterial("GUILTYTHORN", 3, 1500, 7.5F, 25.0F, 10)
                 .setRepairItem(new ItemStack(SAOmod.steel_ingot));
@@ -282,8 +281,7 @@ public class SAOmod {
         GameRegistry.addRecipe(new ItemStack(SAOmod.lambentlight), " X ", " X ", " Y ", 'X', Items.diamond, 'Y', SAOmod.crystallite_handle);
         GameRegistry.addRecipe(new ItemStack(SAOmod.liberator), "  X", " X ", "Y  ", 'X', SAOmod.steel_block, 'Y', SAOmod.steel_handle);
         GameRegistry.addRecipe(new ItemStack(SAOmod.annealblade), "  X", " X ", "Y  ", 'X', Items.iron_ingot, 'Y', SAOmod.steel_handle);
-        //GameRegistry.addRecipe(new ItemStack(SAOmod.windfleuret), "  X", " X ", "Y  ", 'X', , 'Y', );
-        //--???????--?????????--???--???--????????--???????--?????????????????--????????--?????????--??????--?????--?
+        GameRegistry.addRecipe(new ItemStack(SAOmod.windfleuret), " X ", " Y ", " Z ", 'X', Items.diamond, 'Y', SAOmod.steel_ingot, 'Z', SAOmod.crystallite_handle);
         GameRegistry.addRecipe(new ItemStack(SAOmod.guiltythorn), "XYX", "XYX", " Z ", 'X', Blocks.cactus, 'Y', SAOmod.steel_ingot, 'Z', SAOmod.red_handle);
 
     }
