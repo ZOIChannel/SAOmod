@@ -18,9 +18,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.stats.Achievement;
 import net.minecraft.world.World;
-
-
-
+import net.minecraftforge.oredict.OreDictionary;
 
 
 @Mod(modid = "SAOmod", name = "SAOmod", version = "alpha_0.0.2")
@@ -88,6 +86,7 @@ public class SAOmod {
                 .setUnlocalizedName("steel ingot")
                 .setTextureName("SAOmod:steel_ingot");
         GameRegistry.registerItem(steel_ingot, "steel ingot");
+
 
         steel_handle = new Item()
                 .setCreativeTab(SAOmod.SAOtab)
@@ -258,8 +257,35 @@ public class SAOmod {
         GameRegistry.registerItem(guiltythorn, "guiltythorn");
 
 
+        //鉱石辞書への追加
+
+
+        OreDictionary.registerOre("steel_ingot", steel_ingot);
+        OreDictionary.registerOre("steel_handle", steel_handle);
+        OreDictionary.registerOre("steel_block", steel_block);
+
+        OreDictionary.registerOre("black_ingot", black_ingot);
+        OreDictionary.registerOre("black_handle", black_handle);
+        OreDictionary.registerOre("black_block", black_block);
+
+        OreDictionary.registerOre("crystallite_ingot", crystallite_ingot);
+        OreDictionary.registerOre("crystallite_handle", crystallite_handle);
+
+        OreDictionary.registerOre("red_handle", red_handle);
+
+
+
+
+        //実績の追加
 
         SAOmod.get_steel_ingot = new Achievement("get_steel_ingot", "get_steel_ingot", -1, 0, new ItemStack(SAOmod.steel_ingot, 0, 4), SAOmod.get_steel_ingot).setSpecial().registerStat();
+        SAOmod.get_black_ingot = new Achievement("get_black_ingot", "get_black_ingot", 0, 0, new ItemStack(SAOmod.black_ingot, 0, 4), SAOmod.get_black_ingot).setSpecial().registerStat();
+        SAOmod.get_crystallite_ingot = new Achievement("get_crystallite_ingot", "get_crystallite_ingot", 1, 0, new ItemStack(SAOmod.crystallite_ingot, 0, 4), SAOmod.get_crystallite_ingot).setSpecial().registerStat();
+
+        //SAOmod.get_steel_ingot = new Achievement("get_steel_ingot", "get_steel_ingot", -1, -1, new ItemStack(SAOmod.steel_ingot, 0, 4), SAOmod.get_steel_ingot).setSpecial().registerStat();
+        //SAOmod.get_steel_ingot = new Achievement("get_steel_ingot", "get_steel_ingot", 0, -1, new ItemStack(SAOmod.steel_ingot, 0, 4), SAOmod.get_steel_ingot).setSpecial().registerStat();
+        //SAOmod.get_steel_ingot = new Achievement("get_steel_ingot", "get_steel_ingot", 1, -1, new ItemStack(SAOmod.steel_ingot, 0, 4), SAOmod.get_steel_ingot).setSpecial().registerStat();
+        //SAOmod.get_steel_ingot = new Achievement("get_steel_ingot", "get_steel_ingot", 2, -1, new ItemStack(SAOmod.steel_ingot, 0, 4), SAOmod.get_steel_ingot).setSpecial().registerStat();
 
 
     }
