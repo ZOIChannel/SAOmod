@@ -17,7 +17,5 @@ https://github.com/ZOIChannel/SAOmod/releases<br>
 http://zoichannel.html.xdomain.jp/<br>
 <h2>youtube</h2>
 https://m.youtube.com/channel/UCRhi7phabjtcKmLOXPDO5KA/discussion<br>
-<h2>wiki</h2>
-https://www65.atwiki.jp/zoizoi/sp/pages/1.html<br>
 
 よろしくお願いします。
