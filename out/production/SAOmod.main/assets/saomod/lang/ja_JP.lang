@@ -1,4 +1,4 @@
-
+#SAOmod日本語化ファイル
 item.steel ingot.name=スチールインゴット
 item.steel handle.name=スチールハンドル
 item.black ingot.name=ブラックインゴット
@@ -13,6 +13,7 @@ item.liberator.name=リベレイター
 item.annealblade.name=アニールブレード
 item.windfleuret.name=ウィンドフルーレ
 item.guiltythorn.name=ギルティソーン
+#item..name=メイトチョッパー
 
 tile.steel block.name=スチールブロック
 tile.black block.name=ブラックブロック
