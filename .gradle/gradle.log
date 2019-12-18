@@ -1,219 +1,24 @@
-#################################################
-         ForgeGradle 1.2-SNAPSHOT-fb514d3        
-  https://github.com/MinecraftForge/ForgeGradle  
-#################################################
-               Powered by MCP unknown               
-             http://modcoderpack.com             
-         by: Searge, ProfMobius, Fesh0r,         
-         R4wk, ZeuX, IngisKahn, bspkrs           
-#################################################
 :compileApiJava UP-TO-DATE
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
 :sourceMainJava UP-TO-DATE
 :compileJava UP-TO-DATE
-:processResources UP-TO-DATE
-:classes UP-TO-DATE
+:processResources
+:classes
 :jar
+:compileTestJava UP-TO-DATE
+:processTestResources UP-TO-DATE
+:testClasses UP-TO-DATE
+:test UP-TO-DATE
+:extractMcpData UP-TO-DATE
 :getVersionJson
 :extractUserDev UP-TO-DATE
-:extractNatives UP-TO-DATE
-:getAssetsIndex
-:getAssets
-:makeStart SKIPPED
-:runClient
-[16:06:08] [main/INFO] [GradleStart]: Extra: []
-[16:06:08] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, /Users/haruto/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[16:06:08] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
-[16:06:08] [main/INFO] [FML]: Forge Mod Loader version 7.99.36.1558 for Minecraft 1.7.10 loading
-[16:06:08] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_212, running on Mac OS X:x86_64:10.15, installed at /Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre
-[16:06:08] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[16:06:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
-[16:06:08] [main/INFO] [GradleStart]: Injecting location in coremod cpw.mods.fml.relauncher.FMLCorePlugin
-[16:06:08] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
-[16:06:08] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[16:06:08] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:06:09] [main/ERROR] [FML]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-[16:06:09] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
-[16:06:09] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[16:06:09] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[16:06:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
-[16:06:10] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
-[16:06:10] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
-[16:06:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[16:06:12] [main/INFO]: Setting user: Player709
-[16:06:14] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:06:15] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
-[16:06:15] [Client thread/INFO] [STDOUT]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
-// Don't do that.
-
-Time: 19/11/10 16:06
-Description: Loading screen debug info
-
-This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
-
-
-A detailed walkthrough of the error, its code path and all known details is as follows:
----------------------------------------------------------------------------------------
-
--- System Details --
-Details:
-	Minecraft Version: 1.7.10
-	Operating System: Mac OS X (x86_64) version 10.15
-	Java Version: 1.8.0_212, Oracle Corporation
-	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
-	Memory: 176602760 bytes (168 MB) / 281542656 bytes (268 MB) up to 1908932608 bytes (1820 MB)
-	JVM Flags: 0 total; 
-	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
-	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
-	FML: 
-	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-14.0.69' Renderer: 'Intel(R) HD Graphics 6000'
-[16:06:15] [Client thread/INFO] [MinecraftForge]: Attempting early MinecraftForge initialization
-[16:06:15] [Client thread/INFO] [FML]: MinecraftForge v10.13.4.1558 Initialized
-[16:06:16] [Client thread/INFO] [FML]: Replaced 183 ore recipies
-[16:06:16] [Client thread/INFO] [MinecraftForge]: Completed early MinecraftForge initialization
-[16:06:17] [Client thread/INFO] [FML]: Found 0 mods from the command line. Injecting into mod discoverer
-[16:06:17] [Client thread/INFO] [FML]: Searching /Users/haruto/Documents/Develop/SAOmod/intellij/mods for mods
-[16:06:28] [Client thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[16:06:29] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, SAOmod] at CLIENT
-[16:06:29] [Client thread/INFO] [FML]: Attempting connection with missing mods [mcp, FML, Forge, SAOmod] at SERVER
-[16:06:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SAOmod
-[16:06:30] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
-[16:06:30] [Client thread/INFO] [FML]: Found 341 ObjectHolder annotations
-[16:06:30] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[16:06:30] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[16:06:30] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[16:06:30] [Client thread/WARN] [FML]: ****************************************
-[16:06:30] [Client thread/WARN] [FML]: * The object com.zoi.sao.SAOmod$6@6b3df144 has been registered twice for the same name SAOmod:exterded ingot.
-[16:06:30] [Client thread/WARN] [FML]: *  at cpw.mods.fml.common.registry.FMLControlledNamespacedRegistry.add(FMLControlledNamespacedRegistry.java:405)
-[16:06:30] [Client thread/WARN] [FML]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:849)
-[16:06:30] [Client thread/WARN] [FML]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:812)
-[16:06:30] [Client thread/WARN] [FML]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:149)
-[16:06:30] [Client thread/WARN] [FML]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:137)
-[16:06:30] [Client thread/WARN] [FML]: *  at com.zoi.sao.SAOmod.preInit(SAOmod.java:214)...
-[16:06:30] [Client thread/WARN] [FML]: ****************************************
-[16:06:30] [Client thread/WARN] [FML]: ****************************************
-[16:06:30] [Client thread/WARN] [FML]: * A broken ore dictionary registration with name flam_ingot has occurred. It adds an item (type: class com.zoi.sao.SAOmod$7) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
-TO USERS: YES this is a BUG in the mod SAOmod report it to them!
-[16:06:30] [Client thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
-[16:06:30] [Client thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
-[16:06:30] [Client thread/WARN] [FML]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:499)
-[16:06:30] [Client thread/WARN] [FML]: *  at com.zoi.sao.SAOmod.preInit(SAOmod.java:388)
-[16:06:30] [Client thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-[16:06:30] [Client thread/WARN] [FML]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)...
-[16:06:30] [Client thread/WARN] [FML]: ****************************************
-[16:06:30] [Client thread/INFO] [FML]: Applying holder lookups
-[16:06:30] [Client thread/INFO] [FML]: Holder lookups applied
-[16:06:30] [Client thread/INFO] [FML]: Injecting itemstacks
-[16:06:30] [Client thread/INFO] [FML]: Itemstack injection complete
-[16:06:30] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:06:30] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
-[16:06:30] [Thread-7/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
-[16:06:30] [Thread-7/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:06:31] [Thread-7/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
-[16:06:31] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:06:31] [Sound Library Loader/INFO]: Sound engine started
-[16:06:32] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[16:06:32] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[16:06:32] [Client thread/INFO] [FML]: Injecting itemstacks
-[16:06:32] [Client thread/INFO] [FML]: Itemstack injection complete
-[16:06:33] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[16:06:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SAOmod
-[16:06:33] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[16:06:33] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[16:06:33] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:06:33] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
-[16:06:33] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
-[16:06:33] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:06:33] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:06:33] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
-[16:06:34] [Thread-9/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
-[16:06:34] [Thread-9/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[16:06:34] [Thread-9/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
-[16:06:34] [Sound Library Loader/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:06:34] [Sound Library Loader/INFO]: Sound engine started
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: The following texture errors were found.
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:   DOMAIN saomod
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: --------------------------------------------------
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:   domain saomod is missing 6 textures
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:     domain saomod has 1 location:
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:       mod SAOmod resources at /Users/haruto/Documents/Develop/SAOmod/build/libs/SAOmod-alpha_0.1.0.jar
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:     The missing resources for domain saomod are:
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/red_ingot.png
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/exterded_ingot.png
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/gram.png
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/argentium_handle.png
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/excalibar.png
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:       textures/items/argentium_ingot.png
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: -------------------------
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]:     No other errors exist for domain saomod
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: ==================================================
-[16:06:35] [Client thread/ERROR] [TEXTURE ERRORS]: +=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-[16:07:04] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[16:07:04] [Server thread/INFO]: Generating keypair
-[16:07:04] [Server thread/INFO] [FML]: Injecting existing block and item data into this server instance
-[16:07:04] [Server thread/INFO] [FML]: Injecting new block and item data into this server instance.
-[16:07:04] [Server thread/INFO] [FML]: Injected new block/item SAOmod:gram: 4114 (init) -> 4116 (map).
-[16:07:04] [Server thread/INFO] [FML]: Injected new block/item SAOmod:excalibar: 4113 (init) -> 4117 (map).
-[16:07:04] [Server thread/INFO] [FML]: Applying holder lookups
-[16:07:04] [Server thread/INFO] [FML]: Holder lookups applied
-[16:07:04] [Server thread/INFO] [FML]: Loading dimension 0 (SAOワールド) (net.minecraft.server.integrated.IntegratedServer@335f307)
-[16:07:04] [Server thread/INFO] [FML]: Loading dimension 1 (SAOワールド) (net.minecraft.server.integrated.IntegratedServer@335f307)
-[16:07:04] [Server thread/INFO] [FML]: Loading dimension -1 (SAOワールド) (net.minecraft.server.integrated.IntegratedServer@335f307)
-[16:07:04] [Server thread/INFO]: Preparing start region for level 0
-[16:07:05] [Server thread/INFO]: Preparing spawn area: 54%
-[16:07:06] [Server thread/INFO]: Changing view distance to 12, from 10
-[16:07:07] [Netty Client IO #0/INFO] [FML]: Server protocol version 2
-[16:07:07] [Netty IO #1/INFO] [FML]: Client protocol version 2
-[16:07:07] [Netty IO #1/INFO] [FML]: Client attempting to join with 4 mods : FML@7.10.99.99,Forge@10.13.4.1558,SAOmod@alpha_0.1.0,mcp@9.05
-[16:07:07] [Netty IO #1/INFO] [FML]: Attempting connection with missing mods [] at CLIENT
-[16:07:07] [Netty Client IO #0/INFO] [FML]: Attempting connection with missing mods [] at SERVER
-[16:07:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:07:07] [Client thread/INFO] [FML]: [Client thread] Client side modded connection established
-[16:07:07] [Server thread/INFO]: Player709[local:E:d98b53c4] logged in with entity id 346 at (-443.57773161986967, 5.0, 1702.9806754449753)
-[16:07:07] [Server thread/INFO]: Player709 がゲームに参加しました
-[16:07:10] [Server thread/INFO]: Player709 は [所持品の確認] の実績を取得した
-[16:07:10] [Client thread/INFO]: [CHAT] Player709 は [所持品の確認] の実績を取得した
-[16:07:37] [Server thread/INFO]: Saving and pausing game...
-[16:07:37] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
-[16:07:37] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
-[16:07:37] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
-[16:08:10] [Server thread/INFO]: Saving and pausing game...
-[16:08:10] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
-[16:08:10] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
-[16:08:10] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
-[16:08:11] [Server thread/INFO]: Saving and pausing game...
-[16:08:11] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
-[16:08:12] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
-[16:08:12] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
-[16:08:53] [Server thread/INFO]: Stopping server
-[16:08:53] [Server thread/INFO]: Saving players
-[16:08:53] [Server thread/INFO]: Saving worlds
-[16:08:53] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
-[16:08:53] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
-[16:08:53] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
-[16:08:53] [Server thread/INFO] [FML]: Unloading dimension 0
-[16:08:53] [Server thread/INFO] [FML]: Unloading dimension -1
-[16:08:53] [Server thread/INFO] [FML]: Unloading dimension 1
-[16:08:53] [Server thread/INFO] [FML]: Applying holder lookups
-[16:08:53] [Server thread/INFO] [FML]: Holder lookups applied
-[16:09:03] [Client thread/INFO]: Stopping!
-[16:09:03] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-[16:09:03] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
-[16:09:04] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
-[16:09:04] [Client thread/INFO] [STDOUT]: [paulscode.sound.SoundSystemLogger:message:69]: 
-AL lib: (WW) FreeDevice: (0x117ffe000) Deleting 9 Buffer(s)
+:genSrgs SKIPPED
+:reobf
+:assemble
+:check UP-TO-DATE
+:build
 
 BUILD SUCCESSFUL
 
-Total time: 3 mins 1.783 secs
+Total time: 9.436 secs

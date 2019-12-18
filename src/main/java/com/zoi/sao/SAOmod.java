@@ -453,12 +453,6 @@ public class SAOmod {
         GameRegistry.addRecipe(new ItemStack(SAOmod.windfleuret), " X ", " X ", " Y ", 'X', SAOmod.argentium_ingot, 'Y', SAOmod.argentium_handle);
         GameRegistry.addRecipe(new ItemStack(SAOmod.guiltythorn), " YX", "YXY", "ZY ", 'X', SAOmod.red_ingot, 'Y', Blocks.cactus, 'Z', SAOmod.steel_handle);
     }
-    @SubscribeEvent
-    public void getHeldItem(HeldItemEvent event) {
-        if (event.entityPlayer.getHeldItem() != null && event.entityPlayer.getHeldItem().getItem() == SAOmod.lambentlight)
-            event.addPotionEffect(new PotionEffect(Potion.moveSpeed.id, 600, 2));
-            p_77849_3_.addPotionEffect(new PotionEffect(Potion.digSpeed.id, 600, 2));
-    }
 
 }
 
