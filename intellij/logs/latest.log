@@ -1,0 +1,38 @@
+[16:06:12] [main/INFO]: Setting user: Player709
+[16:06:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:06:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SAOmod
+[16:06:31] [Sound Library Loader/INFO]: Sound engine started
+[16:06:32] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[16:06:32] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[16:06:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SAOmod
+[16:06:33] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:06:33] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:06:34] [Sound Library Loader/INFO]: Sound engine started
+[16:07:04] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:07:04] [Server thread/INFO]: Generating keypair
+[16:07:04] [Server thread/INFO]: Preparing start region for level 0
+[16:07:05] [Server thread/INFO]: Preparing spawn area: 54%
+[16:07:06] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:07:07] [Server thread/INFO]: Player709[local:E:d98b53c4] logged in with entity id 346 at (-443.57773161986967, 5.0, 1702.9806754449753)
+[16:07:07] [Server thread/INFO]: Player709 がゲームに参加しました
+[16:07:10] [Server thread/INFO]: Player709 は [所持品の確認] の実績を取得した
+[16:07:10] [Client thread/INFO]: [CHAT] Player709 は [所持品の確認] の実績を取得した
+[16:07:37] [Server thread/INFO]: Saving and pausing game...
+[16:07:37] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
+[16:07:37] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
+[16:07:37] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
+[16:08:10] [Server thread/INFO]: Saving and pausing game...
+[16:08:10] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
+[16:08:10] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
+[16:08:10] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
+[16:08:11] [Server thread/INFO]: Saving and pausing game...
+[16:08:11] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
+[16:08:12] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
+[16:08:12] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
+[16:08:53] [Server thread/INFO]: Stopping server
+[16:08:53] [Server thread/INFO]: Saving players
+[16:08:53] [Server thread/INFO]: Saving worlds
+[16:08:53] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Overworld
+[16:08:53] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/Nether
+[16:08:53] [Server thread/INFO]: Saving chunks for level 'SAOワールド'/The End
+[16:09:03] [Client thread/INFO]: Stopping!

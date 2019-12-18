@@ -5,15 +5,13 @@
 
 
 
-[TOC]
-
 ------
 
 
 
 ## 前提MOD
 minecraftforge(1.7.10)
-(開発は10.13.4.1558、java1.8.0_212でしています。)
+(開発は10.13.4.1558、java1.8.0_212で行っています。)
 
 
 
@@ -34,46 +32,36 @@ https://github.com/ZOIChannel/SAOmod/releases
 - ### 追加素材
 
   - スチールインゴット
-
-  - スチールハンドル
-
+- スチールハンドル
   - スチールブロック
-
-  - ブラックインゴット
-
+- ブラックインゴット
   - ブラックハンドル
-
-  - ブラックブロック
-
+- ブラックブロック
   - クリスタライトインゴット
+- クリスタライトハンドル
+  - レッドインゴット
+- レッドハンドル
+  - アルゲンティウムインゴット
+- エクステンドインゴット
+  - フラムインゴット
+- アダマンタイト
+  - オリハルコン
 
-  - クリスタライトハンドル
-
-  - レッドハンドル
-
-    
+  
 
 - ### 追加武器
 
   - エリュシデータ
 
-    
-
   - ダークリパルサー
-
   - ランベンライト
-
   - リベレイター
-
+  - エクスキャリバー
+  - グラム
   - アニールブレード
-
   - ワインドフルーレ
-
   - ギルティソーン
 
-    
-
-- ### 追加実績
 
 
 
@@ -86,10 +74,7 @@ http://zoichannel.html.xdomain.jp/
 https://m.youtube.com/channel/UCRhi7phabjtcKmLOXPDO5KA
 
 ### Twitter
-https://twitter.com/ZOI25125846
-
-### ZOI's Minecraft Database
-https://zoichannel.github.io/
+https://twitter.com/ZOI_channel
 
 
 

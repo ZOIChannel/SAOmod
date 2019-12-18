@@ -2,21 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23d318f8-07db-4a85-a92a-bbb923a371ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/cache.properties.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/outputFileStates.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.0/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SAOmod.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SAOmod.api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SAOmod.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SAOmod.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SAOmod.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SAOmod.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CREDITS-fml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CREDITS-fml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE-fml.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE-fml.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftForge-Credits.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftForge-Credits.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftForge-License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MinecraftForge-License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SAOmod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SAOmod.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SAOmod/assets/saomod/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SAOmod/assets/saomod/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SAOmod/assets/saomod/lang/ja_JP.lang" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SAOmod/assets/saomod/lang/ja_JP.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/SAOmod/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/SAOmod/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/0.tree" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.root/0.tree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.gathering.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.usagedata.gathering.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Client.launch" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Client.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Server.launch" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Server.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/forge.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/forge.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/forgeChunkLoading.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/forgeChunkLoading.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/crash-reports/crash-2019-06-01_18.10.36-client.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/crash-reports/crash-2019-06-01_18.10.36-client.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2019-06-01-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2019-06-01-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2019-06-04-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2019-06-04-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2019-06-05-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2019-06-05-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2019-06-05-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2019-06-05-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2019-06-05-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2019-06-05-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/2019-06-05-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/2019-06-05-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/options.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/options.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM-1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM-1/forcedchunks.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM-1/forcedchunks.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM1/forcedchunks.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/DIM1/forcedchunks.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/data/Village.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/data/Village.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/forcedchunks.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/forcedchunks.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat_mcr" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat_mcr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/365faa2a-981e-3ca7-bdac-725f58fc8c84.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/365faa2a-981e-3ca7-bdac-725f58fc8c84.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/3e1fbeae-13f8-3fbb-9842-63bc739da918.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/3e1fbeae-13f8-3fbb-9842-63bc739da918.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/5613b4a9-5b8c-3e0b-9915-baa04888ddd5.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/5613b4a9-5b8c-3e0b-9915-baa04888ddd5.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/eb7081a5-32ec-3752-9cbc-963a701e6fdd.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/playerdata/eb7081a5-32ec-3752-9cbc-963a701e6fdd.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-1.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-1.-2.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-1.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-1.-3.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-2.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-2.-3.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-2.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.-3.-3.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.0.-2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.0.-2.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.0.-3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/region/r.0.-3.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/2c9d87c8-64e7-3ca8-861e-e4a9ef3d93bc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/365faa2a-981e-3ca7-bdac-725f58fc8c84.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/365faa2a-981e-3ca7-bdac-725f58fc8c84.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/3e1fbeae-13f8-3fbb-9842-63bc739da918.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/3e1fbeae-13f8-3fbb-9842-63bc739da918.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/5613b4a9-5b8c-3e0b-9915-baa04888ddd5.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/5613b4a9-5b8c-3e0b-9915-baa04888ddd5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/eb7081a5-32ec-3752-9cbc-963a701e6fdd.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/TESTワールドNO_1/stats/eb7081a5-32ec-3752-9cbc-963a701e6fdd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.7.10-10.13.4.1558-1.7.10-changelog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/forge-1.7.10-10.13.4.1558-1.7.10-changelog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/lang/ja_JP.lang" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/lang/ja_JP.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/annealblade.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/annealblade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/blackirongreatsword.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/blackirongreatsword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/bloodoathshield.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/bloodoathshield.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/darkrepulser.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/darkrepulser.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/elucidator.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/elucidator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/excalibur.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/excalibur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/guiltythorn.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/guiltythorn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/hellsgramsword.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/hellsgramsword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/lambentlight.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/lambentlight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/liberator.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/liberator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/windfleuret.png" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/assets/saomod/textures/items/windfleuret.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod.main/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod.main/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SAOmod/META-INF/SAOmod.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SAOmod/META-INF/SAOmod.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zoi/sao/BlackBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zoi/sao/BlackBlock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOtab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOtab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SteelBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zoi/sao/SteelBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/annealblade.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/annealblade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/blackirongreatsword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/blackirongreatsword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/bloodoathshield.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/bloodoathshield.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/darkrepulser.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/darkrepulser.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/elucidator.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/elucidator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/excalibur.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/excalibur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/guiltythorn.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/guiltythorn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/hellsgramsword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/hellsgramsword.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/lambentlight.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/lambentlight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/liberator.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/liberator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/windfleuret.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/windfleuret.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -60,98 +178,6 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-              <folding>
-                <element signature="e#3116#15611#0" />
-                <element signature="e#14432#16591#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/event/ClickEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/BlackBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SteelBlock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOtab.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -163,143 +189,38 @@
     <findStrings>
       <find>GGItemBullet</find>
       <find>recordName</find>
+      <find>red_steel_ingot</find>
+      <find>FMLPreInitializationEvent</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod/SAOtab.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOtab.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zoi/sao/SteelBlock.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zoi/sao/BlackBlock.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang" />
-        <option value="$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectId" id="1V8tFmR7yOCH93AlzuKdee5GU9P" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SAOmod" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SAOmod" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SAOmod" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SAOmod" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SAOmod" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SAOmod" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SAOmod" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="saomod" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: :forgeSrc:1.7.10-10.13.4.1558-1.7.10" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: :forgeSrc:1.7.10-10.13.4.1558-1.7.10" type="70bed36:NamedLibraryElementNode" />
-              <item name="forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: :forgeSrc:1.7.10-10.13.4.1558-1.7.10" type="70bed36:NamedLibraryElementNode" />
-              <item name="forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: :forgeSrc:1.7.10-10.13.4.1558-1.7.10" type="70bed36:NamedLibraryElementNode" />
-              <item name="forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SAOmod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Gradle: :forgeSrc:1.7.10-10.13.4.1558-1.7.10" type="70bed36:NamedLibraryElementNode" />
-              <item name="forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-              <item name="minecraft" type="462c0819:PsiDirectoryNode" />
-              <item name="event" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.20996094" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -309,18 +230,6 @@
       <recent name="com.zoi.sao" />
       <recent name="com.zoi.sao.SAOmod" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Gradle.SAOmod [build]">
     <configuration name="SAOmod [build]" type="GradleRunConfiguration" factoryName="Gradle">
@@ -347,7 +256,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -356,11 +265,27 @@
             <option value="runClient" />
           </list>
         </option>
-        <option name="vmOptions" />
+        <option name="vmOptions" value="" />
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Gradle.SAOmod [build]" />
+      <item itemvalue="Gradle.SAOmod [runClient]" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -372,297 +297,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559721365775</updated>
+      <workItem from="1576646464830" duration="2086000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28183118" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.32893" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32891566" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.3297568" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="GraphQL" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.32893" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
-      <window_info anchor="right" id="Gradle" order="6" weight="0.3297568" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-    </layout-to-restore>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod/SAOtab.java" />
-    <entry file="file://$USER_HOME$/Desktop/GeneralGun's1.7.10.4/src/generalguns/mod_GeneralGuns.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemColored.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemHoe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar!/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-522">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemRecord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="46" column="37" lean-forward="true" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-          <folding>
-            <element signature="e#3547#3548#0" expanded="true" />
-            <element signature="e#3596#3597#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/block/BlockAir.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="53" column="7" lean-forward="true" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar!/pack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/block/BlockButton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2069">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/block/BlockDirt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/block/Block.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4446">
-          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemPickaxe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/command/CommandKill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/init/Blocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2655">
-          <caret line="204" column="36" lean-forward="true" selection-start-line="204" selection-start-column="36" selection-end-line="204" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/block/BlockStone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar!/mcplogo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar!/assets/minecraft/textures/models/armor/iron_layer_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar!/assets/minecraft/textures/models/armor/iron_layer_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/saomod/lang/en_US.lang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/client/renderer/RenderBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13786">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraftforge/event/world/BlockEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-923">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraftforge/server/ForgeTimeTracker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/crash/CrashReport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-518">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/client/model/ModelPig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/client/settings/GameSettings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2972">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/event/ClickEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/BlackBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SteelBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOtab.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/saomod/lang/ja_JP.lang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zoi/sao/SAOmod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding>
-            <element signature="e#3116#15611#0" />
-            <element signature="e#14432#16591#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1576648558499">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576648558499" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1576648558495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576648558495" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1576648558494">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576648558494" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1576648558496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576648558496" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1576646465224">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576646465224" />
   </component>
   <component name="masterDetails">
     <states>
@@ -680,6 +342,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>Minecraft</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -714,6 +377,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>SAOmod</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -737,6 +401,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Gradle: :forgeSrc:1.7.10-10.13.4.1558-1.7.10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
