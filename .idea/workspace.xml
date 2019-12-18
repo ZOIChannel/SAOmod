@@ -210,6 +210,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
@@ -224,6 +225,7 @@
     <property name="project.structure.proportion" value="0.20996094" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -297,7 +299,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559721365775</updated>
-      <workItem from="1576646464830" duration="2086000" />
+      <workItem from="1576646464830" duration="2196000" />
     </task>
     <servers />
   </component>
@@ -305,26 +307,27 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1576648558499">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1576648723331">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576648558499" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1576648558495">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576648723331" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1576648723330">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576648558495" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1576648558494">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576648723330" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1576648723329">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576648558494" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1576648558496">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576648723329" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1576648723330">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576648558496" />
-    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1576646465224">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576648723330" />
+    <state x="551" y="326" key="com.intellij.ide.util.TipDialog" timestamp="1576672003677">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576646465224" />
+    <state x="551" y="326" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1576672003677" />
   </component>
   <component name="masterDetails">
     <states>
