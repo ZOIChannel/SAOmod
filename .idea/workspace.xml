@@ -9,26 +9,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.6/taskArtifacts/taskArtifacts.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/gradle.log" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/gradle.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/config/splash.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/logs/fml-client-1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/logs/fml-client-latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/logs/fml-junk-earlystartup.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/DIM-1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/DIM1/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/data/villages.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-1.2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-1.2.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-1.3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-1.3.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-2.2.mca" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-2.2.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-2.3.mca" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/region/r.-2.3.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/saves/SAOワールド/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/saves/SAOワールド/session.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/intellij/usernamecache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/arugentium_handle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/arugentium_ingot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/excalibur.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/fram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/gram.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/saomod/textures/items/gram.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,6 +187,7 @@
       <workItem from="1576646464830" duration="2196000" />
       <workItem from="1576663184433" duration="2786000" />
       <workItem from="1576829126876" duration="843000" />
+      <workItem from="1577439653726" duration="916000" />
     </task>
     <servers />
   </component>
@@ -211,26 +195,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1576830108470">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1577616376551">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576830108470" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1576830108468">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577616376551" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1577616376526">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576830108468" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1576830108467">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577616376526" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1577616376490">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576830108467" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1576830108469">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577616376490" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1577616376547">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576830108469" />
-    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1576829126186">
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577616376547" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1577440352422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576829126186" />
+    <state x="413" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1577440352422" />
   </component>
   <component name="masterDetails">
     <states>

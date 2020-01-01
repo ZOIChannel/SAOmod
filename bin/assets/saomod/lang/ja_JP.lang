@@ -1,0 +1,60 @@
+#SAOmod日本語化ファイル
+item.steel ingot.name=スチールインゴット
+item.steel handle.name=スチールハンドル
+tile.steel block.name=スチールブロック
+
+item.black ingot.name=ブラックインゴット
+item.black handle.name=ブラックハンドル
+tile.black block.name=ブラックブロック
+
+item.crystallite ingot.name=クリスタライトインゴット
+item.crystallite handle.name=クリスタライトハンドル
+
+item.red ingot.name=レッドインゴット
+item.red handle.name=レッドハンドル
+
+item.argentium ingot.name=アルゲンティウムインゴット
+item.argentium handle.name=アルゲンティウムハンドル
+
+item.exterded ingot.name=エクステンデッドインゴット
+
+item.flam ingot.name=フラムインゴット
+
+item.adamantite.name=アダマンタイト
+
+item.oriharukon.name=オリハルコン
+
+item.elucidator.name=エリュシデータ
+item.darkrepulser.name=ダークリパルサー
+item.lambentlight.name=ランベンライト
+item.liberator.name=リベレイター
+item.excalibar.name=エクスキャリバー
+item.gram.name=グラム
+item.annealblade.name=アニールブレード
+item.windfleuret.name=ウィンドフルーレ
+item.guiltythorn.name=ギルティソーン
+#item..name=メイトチョッパー
+
+
+
+
+achievement.get_steel_ingot=スチールインゴットを手に入れた！
+achievement.get_black_ingot=ブラックインゴットを手に入れた！
+achievement.get_adamantite=アダマンタイトを手に入れた！
+achievement.get_oriharukon=オリハルコンを手に入れた！
+achievement.get_crystallite_ingot=クリスタライトインゴットを手に入れた！
+achievement.get_exterded_ingot=エクステンドインゴットを手に入れた！
+achievement.get_flam_ingot=フラムインゴットを手に入れた！
+achievement.get_argentium_ingot=アルゲンティウムインゴットを手に入れた！
+achievement.get_red_ingot=レッドインゴットを手に入れた！
+achievement.get_elucidator=エリュシデータを手に入れた！
+achievement.get_darkrepulser=ダークリパルサーを手に入れた！
+achievement.get_lambentlight=ランベンライトを手に入れた！
+achievement.get_liberator=リベレイターを手に入れた！
+achievement.get_excalibar=エクスカリバーを手に入れた！
+achievement.get_gram=グラムを手に入れた！
+achievement.get_annealblade=アニールブレードを手に入れた！
+achievement.get_windfleuret=ウィンドフルーレを手に入れた！
+achievement.get_guiltythorn=ギルティソーンを手に入れた！
+
+itemGroup.SAOtab=SAOmod

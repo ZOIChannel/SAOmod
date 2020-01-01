@@ -1,0 +1,57 @@
+#SAOmod英語化ファイル
+item.steel ingot.name=Steel Ingot
+item.steel handle.name=Steel Handle
+tile.steel block.name=Steel block
+
+item.black ingot.name=Black Ingot
+item.black handle.name=Black Handle
+tile.black block.name=Black block
+
+item.crystallite ingot.name=Crystallite Ingot
+item.crystallite handle.name=Crystallite Handle
+
+item.red ingot.name=Red Ingot
+item.red handle.name=Red Handle
+
+item.argentium ingot.name=Argentium Ingot
+item.argentium handle.name=Argentium Handle
+
+item.exterded ingot.name=Exterded Ingot
+
+item.flam ingot.name=Flam Ingot
+
+item.adamantite.name=Adamantite
+
+item.oriharukon.name=Oriharukon
+
+item.elucidator.name=Elucidator
+item.darkrepulser.name=Darkrepulser
+item.lambentlight.name=Lambentlight
+item.liberator.name=Liberator
+item.excalibar.name=Excalibar
+item.gram.name=Gram
+item.annealblade.name=Annealblade
+item.windfleuret.name=Windfleuret
+item.guiltythorn.name=Guiltythorn
+
+
+achievement.get_steel_ingot=Get Steel Ingot
+achievement.get_black_ingot=Get Black Ingot
+achievement.get_adamantite=Get Adamantite
+achievement.get_oriharukon=Get Oriharukon
+achievement.get_crystallite_ingot=Get Crystallite Ingot
+achievement.get_exterded_ingot=Get Exterded Ingot
+achievement.get_flam_ingot=Get Flam Ingot
+achievement.get_argentium_ingot=Get Argentium Ingot
+achievement.get_red_ingot=Get Red Ingot
+achievement.get_elucidator=Get Elucidator
+achievement.get_darkrepulser=Get Darkrepulser
+achievement.get_lambentlight=Get Lambentlight
+achievement.get_liberator=Get Liberator
+achievement.get_excalibar=Get Excalibar
+achievement.get_gram=Get Gram
+achievement.get_annealblade=Get Annealblade
+achievement.get_windfleuret=Get Windfleuret
+achievement.get_guiltythorn=Get Guiltythorn
+
+itemGroup.SAOtab=SAOmod
